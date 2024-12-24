@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="book-network">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/book-network" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/book-network/book-network/src/main/java" />
+      <root url="file://$PROJECT_DIR$/book-network/book-network/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
